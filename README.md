@@ -38,6 +38,7 @@ Here are the random numbers arranged:
 38 114 134 190 424 488 600 736 - 537 533 
 
 Of the above 10 numbers, 8 were even and 2 were odd.
+```
 
 ## Code Explanation
 
